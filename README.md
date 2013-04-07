@@ -2,18 +2,3 @@ uezo_social
 ===========
 
 Projeto para implantação e implementação de uma rede social universitária na UEZO 
-
-Acho legal realizarmos aqui uma 'pseudo brainstorming' e depois viabilizar o crescimento dessas ideias.
-
--publicações de artigos;
--grupos das turmas;
--mural principal com publicações uezinas e do curso correspondente;
--ideia para os calouros: dicas; o que tem por perto; repúblicas; como chegar;
--'hangout' publicações de trotes e eventos não educativas;
--cada 'sessão' separada por uma tag e cor/ícone específico a fim de facilitar o reconhecimento;
--pessoas poderão interagir entre si ou somente em grupo?;
--repositório;
--viabilidade sobre 'tríade das estaduais';
-
-
-Vítor 06/04/2013 - 09:08
